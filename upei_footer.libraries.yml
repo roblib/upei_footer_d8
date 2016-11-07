@@ -1,0 +1,6 @@
+upei_footer:
+    version: 1.x
+    css:
+        theme:
+            css/upei_footer.css: {}
+

@@ -1,0 +1,44 @@
+.bottom-links { display: none; }
+.socialmedia { margin: 10px 0; }
+.block-upei-footer > h2 {
+	display: none;
+	
+}
+footer { background: #333 !important; }
+.block-upei-footer a { color: green; }
+.block-upei-footer h2 {  color: #fff; }
+.block-upei-footer .bottom-links a { color: #ccc; }
+.links-last li a { color: #ccc; }
+.block-upei-footer .links-last, .block-upei-footer .links-last a { color: #ccc; }
+.footeraddress, .block-upei-footer ul { font-size: small; }
+.bottom-links li { line-height: 142%; }
+.block-upei-footer .address { color: #fff; }
+.block-upei-footer ul.menu li.leaf { list-style-image: none; list-style-type: none; margin: 0px; }
+.block-upei-footer ul.menu { margin: 0px; }
+.footerlogo img {
+	width: 162px;
+	
+}
+@media (min-width:600px) {
+  #links-section { overflow: hidden; *zoom: 1; }
+  .inner-footeraddress { margin-top: 10px; }
+  .footeraddress { width: 100%; clear: right; float: right; margin-right: 0; }
+  .socialmedia { padding: 12px 0; }
+}
+
+@media (min-width:800px) {
+  .socialmedia { margin: 0; }
+  .bottom-links { display: inherit; }
+  .socialmedia { padding: 12px 0; }
+  #links-section { overflow: hidden; *zoom: 1; }
+  .menu-01 { width: 18.18182%; float: left; margin-right: -100%; margin-left: 0; clear: none; }
+  .menu-02 { width: 18.18182%; float: left; margin-right: -100%; margin-left: 20.45455%; clear: none; }
+  .menu-03 { width: 18.18182%; float: left; margin-right: -100%; margin-left: 40.90909%; clear: none; }
+  .menu-04 { width: 18.18182%; float: left; margin-right: -100%; margin-left: 61.36364%; clear: none; }
+  .menu-05 { width: 18.18182%; float: right; margin-left: 0; margin-right: 0; clear: none; }
+  .inner-footeraddress { margin-top: 10px; overflow: hidden; *zoom: 1; }
+  .footeraddress { width: 100%; float: right; margin-left: 0; margin-right: 0; clear: none; border-top: 4px solid rgb(139, 31, 3); padding-top: 10px; margin-top: 5px; }
+  .addressleft { width: 59.09091%; float: left; margin-right: -100%; margin-left: 0; clear: none; }
+  .footerlogo { width: 18.18182%; float: right; margin-left: 0; margin-right: 0; clear: none; }
+  .socialmedia { width: 18.18182%; float: left; margin-right: -100%; margin-left: 61.36364%; clear: none; text-align: right; padding-top: 27px; }
+}

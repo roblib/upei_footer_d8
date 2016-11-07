@@ -1,0 +1,6 @@
+name: UPEI Footer
+description: A helper module for including the UPEI footer.
+package: Custom
+type: module
+version: 1.0
+core: 8.x
